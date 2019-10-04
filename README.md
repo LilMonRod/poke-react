@@ -1,3 +1,6 @@
+# poke-react
+Practice using React and calling an API to built a page
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
